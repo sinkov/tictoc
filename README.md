@@ -1,5 +1,10 @@
 # Mid-term group project 'What makes Tic-Toc videos popular'?
-Students — working in groups — are supposed:
+This repo contains:
+* Jupyter notebook
+* Presentation in PDF
+* Raw data (trending.json)
+
+The tasks:
 
 1. to familiarize with the [TikTok Trending
 Videos](https://www.kaggle.com/erikvdven/tiktok-trending-december-2020) dataset
