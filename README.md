@@ -1,4 +1,4 @@
-# Mid-term group project 'What makes Tic-Toc videos popular'?
+# Data Visualization mid-term group project 'What makes Tic-Toc videos popular'?
 This repo contains:
 * Jupyter notebook
 * Presentation in PDF
