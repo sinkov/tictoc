@@ -1,7 +1,5 @@
 # Data Visualization mid-term group project 'What makes Tic-Toc videos popular'?
 
-![](images/tiktok.jpg)
-
 ![Screenshot](tiktok.jpeg)
 
 This repo contains:
