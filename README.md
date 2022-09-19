@@ -1,5 +1,5 @@
 # Data Visualization mid-term group project 'What makes Tic-Toc videos popular'?
-![](tiktok.jpg)
+![](tiktok/tiktok.jpg)
 This repo contains:
 * Jupyter notebook
 * Presentation in PDF
