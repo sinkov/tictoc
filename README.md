@@ -2,6 +2,8 @@
 
 ![](images/tiktok.jpg)
 
+![Screenshot](tiktok.jpg)
+
 This repo contains:
 * Jupyter notebook
 * Presentation in PDF
