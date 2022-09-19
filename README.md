@@ -2,7 +2,7 @@
 
 ![](images/tiktok.jpg)
 
-![Screenshot](tiktok.jpg)
+![Screenshot](tiktok.jpeg)
 
 This repo contains:
 * Jupyter notebook
