@@ -1,6 +1,4 @@
-# This repo contains accomplished assignments (Jupyter notebooks) in Data Visualization
-
-# 1) Mid-term group project 'What makes Tic-Toc videos popular'?
+# Mid-term group project 'What makes Tic-Toc videos popular'?
 Students — working in groups — are supposed:
 
 1. to familiarize with the [TikTok Trending
